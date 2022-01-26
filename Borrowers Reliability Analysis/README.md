@@ -21,8 +21,8 @@ The customer is the credit department of the bank. The task is to define whether
 
 ## Key results
 
-The analysis shows that the most reliable borrowers:
-— have no children 
-— are married or have ever been married
-— have *real estate* as a purpose of getting a loan  
-— have a high level of earnings (higher than 80% of borrowers).
+The analysis shows that the most reliable borrowers:  
+— have no children   
+— are married or have ever been married   
+— have *real estate* as a purpose of getting a loan    
+— have a high level of earnings (higher than 80% of borrowers).  
