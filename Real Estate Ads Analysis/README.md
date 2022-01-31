@@ -1,6 +1,6 @@
 # Real Estate Ads Analysis
 
-[NBViewer - Jupyter Notebook]()
+[NBViewer - Jupyter Notebook](https://nbviewer.org/github/plgesha/data-analyst-professional-training-course-projects/blob/master/Real%20Estate%20Ads%20Analysis/Real%20Estate%20Ads%20Analysis.ipynb)
 
 ## Objective
 
