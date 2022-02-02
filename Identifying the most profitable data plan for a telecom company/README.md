@@ -14,7 +14,7 @@ The customer is a commercial department of a major mobile carrier. The task is t
 * The company's revenue from the "Ultra" plan is more than 1.5 times higher than revenue from the "Smart" plan: 2071 rubles and 1277 rubles, respectively.
 
 Hypotheses testing shows (significance level 5%):
-* the average revenue of "Ultra" plan users differs from the average revenue of "Smart" plan users;
+* the average revenue per user for "Ultra" plan differs from the average revenue per user for "Smart" plan;
 * the average revenue of users from Moscow is equal to the average revenue of users from other regions.
 
 The "Ultra" plan is more profitable for the company: it has higher average revenue, and also "Smart" plan users often go beyond their plan limits, and that may encourage them to change their plan to "Ultra", which will further increase the company's revenue.
