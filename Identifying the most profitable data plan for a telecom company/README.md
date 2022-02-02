@@ -1,6 +1,6 @@
 # Identifying the most profitable data plan for a telecom company
 
-[NBViewer - Jupyter Notebook]()
+[NBViewer - Jupyter Notebook](https://nbviewer.org/github/plgesha/data-analyst-professional-training-course-projects/blob/master/Identifying%20the%20most%20profitable%20data%20plan%20for%20a%20telecom%20company/Identifying%20the%20most%20profitable%20data%20plan%20for%20a%20telecom%20company.ipynb)
 
 ## Objective
 
