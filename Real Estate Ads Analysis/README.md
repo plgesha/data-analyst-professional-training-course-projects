@@ -4,7 +4,7 @@
 
 ## Objective
 
-The task is to define the parameters needed to determine the market value of real estate properties. That may help to build an automated system that will track anomalies and fraud. The data provided is the archive of advertisements for apartments sale in St. Petersburg and the neighbourhood in the past several years.
+The task is to define the parameters needed to determine the market value of real estate properties. That may help to build an automated system for tracking anomalies and fraud. The data provided is an archive of advertisements for on sale apartments in St. Petersburg and nearby areas in recent years.
 
 For each apartment for sale, there are two types of data available. The first ones are entered by the user, and the second ones are obtained automatically based on cartographic data (e.g., the distance to the centre, airport, nearest park, or reservoir).
  
