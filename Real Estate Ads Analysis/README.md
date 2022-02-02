@@ -37,10 +37,10 @@ For each apartment for sale, there are two types of data available. The first on
 
 ## Key results
 * Usually, it takes about three months to sell an apartment;
-* The sale price of apartments increases with an increase in the area and number of rooms, and decreases with distance from the centre;
-* Apartments on the ground and top floors are nearly the same price, but they are significantly cheaper than those on other floors. 
+* Apartment prices rise depending on the number of rooms and total area; apartments farther from the city centre are cheaper;
+* Ground floor and top floor apartments cost nearly the same, but they are significantly cheaper than those on other floors. 
 * From 2014 to 2016, the price of apartments fell by an average of 2.5 million rubles;
 * The largest localities with the most expensive apartments are St. Petersburg and Pushkin, the most inexpensive housing can be found in Vyborg; 
-* Approximately 3 km is the border of the centre of St. Petersburg;
-* Apartments in the centre of St. Petersburg are about two times more expensive (8.35 million vs. 4.5 million), 1.5 times more spacious (74 sq m vs. 50 sq m), and have higher ceilings (3 m vs. 2.65 m) than those in the rest of the city;
-* In the centre of St. Petersburg, apartments on the ground floor are noticeably cheaper; top floor apartments are nearly the same price as those on other floors;
+* The St. Petersburg city centre lies approximately within a 3 km radius;
+* Apartments in the centre of St. Petersburg are twice as expensive (8.35 million vs. 4.5 million), 1.5 times more spacious (74 sq m vs. 50 sq m), and have higher ceilings (3 m vs. 2.65 m) than those in the rest of the city;
+* In the city centre ground floor apartments are noticeably cheaper; top floor apartments are nearly the same price as those on other floors;
