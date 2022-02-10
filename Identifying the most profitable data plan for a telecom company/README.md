@@ -9,8 +9,8 @@ The customer is a commercial department of a major mobile carrier. The task is t
 ## Key results
 * Average user of "Smart" plan uses 422 minutes and 16.5 GB of data, and sends 28 texts;
 * Average user of "Ultra" plan uses 518 minutes and 19.3 GB of data, and sends 38 texts;
-* Users of "Ultra" think less about the limits and use the services provided more freely (since the dispersion for the "Ultra" plan is higher than for the "Smart" plan);
-* Users of the "Ultra" plan do not go beyond the limits, in contrast to the users of the "Smart" tariff, who have to buy additional data packages or minutes;
+* Users of "Ultra" are less restricted by limits and use the services provided more freely (since the dispersion for the "Ultra" plan is higher than for the "Smart" plan);
+* Users of "Ultra" plan do not go over the limits as much as the users of "Smart" plan, who have to buy additional data packages or minutes;
 * The company's revenue from the "Ultra" plan is more than 1.5 times higher than revenue from the "Smart" plan: 2071 rubles and 1277 rubles, respectively.
 
 Hypotheses testing shows (significance level 5%):
