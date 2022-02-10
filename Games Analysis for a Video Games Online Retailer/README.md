@@ -3,7 +3,7 @@
 [NBViewer - Jupyter Notebook](https://nbviewer.org/github/plgesha/data-analyst-professional-training-course-projects/blob/master/Games%20Analysis%20for%20a%20Video%20Games%20Online%20Retailer/Games%20Analysis%20for%20a%20Video%20Games%20Online%20Retailer.ipynb)
 
 ## Objective
-The customer is an online video games retailer. The task is to identify the patterns that determine whether a game is successful. That will help plan advertising campaign focusing on potentially popular products. The data used is open data up to 2016 (historical data on game sales, user and critic scores, genres and platforms). 
+The customer is an online video games retailer. The task is to identify the patterns that determine whether a game is successful. That will help plan an advertising campaign focused on potentially popular products. The data used is open data up to 2016 (historical data on game sales, user and critic scores, genres and platforms). 
 
 ## Data
 - `Name` — game name
