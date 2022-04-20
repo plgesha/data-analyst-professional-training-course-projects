@@ -52,11 +52,11 @@ Table **`festivals`** — festivals info:
 **Note:** There is no direct relationship between **`airports`** and **`festivals`** tables, as well as between **`festivals`** and **`flights`** tables.
 
 #### Queries:
-1.  Find the number of flights departing in September 2018 for each aircraft model
+1.  Find the number of flights departing in September 2018 for each aircraft model         
 Query result table:
 - `model` — aircraft model,
 - `flights_amount` — number of flights departing in September 2018
-2. Find the average number of arriving flights per day for each city in August 2018.
+2. Find the average number of arriving flights per day for each city in August 2018      
 Query result table:
 - `city` — city,
 - `average_flights` — average number of arriving flights per day for each city in August 2018.
