@@ -4,13 +4,15 @@
 The customer is a domestic service airline. The task is to define users’ demand for flights to destinations where the largest festivals are held.
 
 This project consists of three parts:
-1. [Parsing a website]() to collect data about 11 biggest festivals of 2018;
-2. [Working with a database, using SQL]() to find: 
+1. [Parsing a website](https://github.com/plgesha/data-analyst-professional-training-course-projects/blob/master/Flights%20Demand%20Analysis%20for%20an%20Airline/parser.py) to collect data about 11 biggest festivals of 2018;
+2. [Working with a database, using SQL](https://github.com/plgesha/data-analyst-professional-training-course-projects/blob/master/Flights%20Demand%20Analysis%20for%20an%20Airline/queries.sql) to find: 
     - the number of flights departing in September 2018 for each aircraft model;
     - the average number of arriving flights per day for each city in August 2018;
-3. Data analysis based on the query results, using Python [NBViewer - Jupyter Notebook]().
+3. Data analysis based on the query results, using Python [NBViewer - Jupyter Notebook](https://nbviewer.org/github/plgesha/data-analyst-professional-training-course-projects/blob/master/Flights%20Demand%20Analysis%20for%20an%20Airline/Flights%20Demand%20Analysis%20for%20an%20Airline.ipynb).
 
 ## Data
+[Database strucrure](https://github.com/plgesha/data-analyst-professional-training-course-projects/blob/master/Flights%20Demand%20Analysis%20for%20an%20Airline/db_structure.jpg)
+
 The air transportation database consists of several tables:
 
 Table **`airports`** — airports info:
