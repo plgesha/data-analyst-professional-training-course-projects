@@ -1,7 +1,7 @@
 # Flights Demand Analysis for an Airline
 
 ## Objective
-The customer is a domestic service airline. The task is to define users’ demand for flights to destinations where the largest festivals are held.
+The customer is a domestic service airline. The task is to define users’ demand for flights to largest festival destinations.
 
 This project consists of three parts:
 1. [Parsing a website](https://github.com/plgesha/data-analyst-professional-training-course-projects/blob/master/Flights%20Demand%20Analysis%20for%20an%20Airline/parser.py) to collect data about 11 biggest festivals of 2018;
