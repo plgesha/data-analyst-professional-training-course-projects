@@ -62,6 +62,6 @@ Query result table:
 - `average_flights` — average number of arriving flights per day for each city in August 2018.
 
 ## Key results
-- Regarding the number of flights, the Cessna 208 Caravan light aircraft, and two short-haul aircraft, the Bombardier CRJ-200 and Sukhoi Superjet-100, are in the lead. 
+- Regarding the number of flights, the Cessna 208 Caravan light aircraft and two short-haul aircraft, — the Bombardier CRJ-200 and Sukhoi Superjet-100, — are in the lead. 
 - The larger the plane, the fewer flights it makes.
 - Moscow is the undisputed leader among the cities with the most significant number of flights, followed by other major hub cities.
