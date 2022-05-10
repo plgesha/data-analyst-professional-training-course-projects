@@ -1,5 +1,7 @@
 # A/B Test Results Analysis for an Online Store
 
+[NBViewer - Jupyter Notebook](https://nbviewer.org/github/plgesha/data-analyst-professional-training-course-projects/blob/master/AB%20Test%20Results%20Analysis%20for%20an%20Online%20Store/AB%20Test%20Results%20Analysis%20for%20an%20Online%20Store.ipynb)
+
 ## Objective
 The customer is a major online store. The task is to prioritize revenue-increasing hypotheses, run an A/B test and analyze its results.  
 
