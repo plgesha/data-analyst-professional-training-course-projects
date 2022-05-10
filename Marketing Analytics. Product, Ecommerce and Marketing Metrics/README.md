@@ -1,5 +1,7 @@
 # Marketing Analytics. Product, Ecommerce and Marketing Metrics
 
+[NBViewer - Jupyter Notebook](https://nbviewer.org/github/plgesha/data-analyst-professional-training-course-projects/blob/master/Marketing%20Analytics.%20Product%2C%20Ecommerce%20and%20Marketing%20Metrics/Marketing%20Analytics.%20Product%2C%20Ecommerce%20and%20Marketing%20Metrics.ipynb)
+
 ## Objective
 The customer is a marketing analytics department of Yandex.Afisha (an online service where users can explore and buy tickets to new shows and events in the city). 
 
