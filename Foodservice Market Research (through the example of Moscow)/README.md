@@ -1,5 +1,7 @@
 # Foodservice Market Research (through the example of Moscow)
 
+[NBViewer - Jupyter Notebook](https://nbviewer.org/github/plgesha/data-analyst-professional-training-course-projects/blob/master/Foodservice%20Market%20Research%20%28through%20the%20example%20of%20Moscow%29/Foodservice%20Market%20Research%20%28through%20the%20example%20of%20Moscow%29.ipynb)
+
 ## Objective
 The task is to conduct research on the current foodservice market situation for a stakeholder — a group of investors, to help them decide whether to invest in the new cafe opening and chain expansion. The data used is open data on food and drink venues in Moscow. 
 
