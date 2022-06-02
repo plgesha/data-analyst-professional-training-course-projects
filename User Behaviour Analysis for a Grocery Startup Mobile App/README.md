@@ -1,5 +1,7 @@
 # User Behaviour Analysis for a Grocery Startup Mobile App
 
+[NBViewer - Jupyter Notebook](https://nbviewer.org/github/plgesha/data-analyst-professional-training-course-projects/blob/master/User%20Behaviour%20Analysis%20for%20a%20Grocery%20Startup%20Mobile%20App/User%20Behaviour%20Analysis%20for%20a%20Grocery%20Startup%20Mobile%20App.ipynb)
+
 ## Objective
 The client is a grocery startup. The task is to analyse user behaviour illustrated by the sales funnel and A/A/B test results. 
 This project consists of two parts:
