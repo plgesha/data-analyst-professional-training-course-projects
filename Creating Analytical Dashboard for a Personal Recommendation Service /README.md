@@ -9,5 +9,5 @@ This project consists of three parts:
 - creating a summary presentation for managers on the current situation of user interaction with article cards.
 
 ## Key results
-- insightful [dashboard]() that meets all the requirements;
-- summary [presentation]() providing managers with key insights. 
+- insightful [dashboard](https://public.tableau.com/app/profile/pauline7604/viz/Yandex_ZenYaPracticumDashboard/sheet4?publish=yes) that meets all the requirements;
+- summary [presentation](https://github.com/plgesha/data-analyst-professional-training-course-projects/blob/master/Creating%20Analytical%20Dashboard%20for%20a%20Personal%20Recommendation%20Service%20/Presentation.pdf) providing managers with key insights. 
