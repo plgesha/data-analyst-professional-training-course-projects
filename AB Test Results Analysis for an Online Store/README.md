@@ -48,5 +48,5 @@ There is a difference in prioritization results because *RICE* considers the cov
 - In terms of relative change in cumulative conversion, group B shows better results only a month after the start of the test and sets the 10% increase compared to group A;
 - Most customers make no more than two orders, and the order value does not exceed 28 000.
 
-**Recommendations**
+**Recommendations**    
 The statistical significance calculation shows that group B has a greater conversion than group A (both on raw and cleaned data). Also, there is no statistically significant difference in the average order value between groups A and B. Given the above, it is advised to stop the test by declaring group B a winner.
