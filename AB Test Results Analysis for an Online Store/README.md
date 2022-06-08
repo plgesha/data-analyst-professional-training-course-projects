@@ -30,7 +30,7 @@ This project consists of two parts:
 - `visitors` — number of users in the A/B test group;
 
 ## Key results
-**Hypotheses prioritization**
+**Hypotheses prioritization**         
 Top-3 hypotheses using *ICE* scoring model:
 - Launch a promotion that gives a birthday discount; 
 - Add two new traffic channels, which will acquire 30% more customers;
