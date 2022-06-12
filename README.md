@@ -1,6 +1,6 @@
 # Data Analyst Course
 
-This repository contains projects completed throughout the 7-months Data Analyst Professional Training Course.
+This repository contains projects completed throughout the Data Analyst Professional Training Course.
 
 | Project | Description | Tools |
 | :-------------------- | :--------------------- |:---------------------------|
