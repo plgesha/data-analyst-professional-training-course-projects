@@ -3,7 +3,7 @@
 [NBViewer - Jupyter Notebook](https://nbviewer.org/github/plgesha/data-analyst-professional-training-course-projects/blob/master/Marketing%20Analytics.%20Product%2C%20Ecommerce%20and%20Marketing%20Metrics/Marketing%20Analytics.%20Product%2C%20Ecommerce%20and%20Marketing%20Metrics.ipynb)
 
 ## Objective
-The customer is a marketing analytics department of Yandex.Afisha (an online service where users can explore and buy tickets to new shows and events in the city). 
+The client is a marketing analytics department of Yandex.Afisha (an online service where users can explore and buy tickets to new shows and events in the city). 
 
 The task is to help marketing specialists lower costs — opt out of unprofitable traffic sources and redistribute the budget. That suggests determining how customers use the service and when they make their first purchase, how much money the company gets from each customer, and when the customer acquisition cost pays off. 
 
