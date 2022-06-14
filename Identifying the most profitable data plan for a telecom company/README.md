@@ -4,7 +4,7 @@
 
 ## Objective
 
-The customer is a commercial department of a major mobile carrier. The task is to identify which data plan ("Smart" or "Ultra") is the most profitable, to adjust the advertising budget. The data provided comes from 500 users for the year 2018 (who they are, where they are from, what plan they use, how many calls and texts each sent).
+The client is a commercial department of a major mobile carrier. The task is to identify which data plan ("Smart" or "Ultra") is the most profitable, to adjust the advertising budget. The data provided comes from 500 users for the year 2018 (who they are, where they are from, what plan they use, how many calls and texts each sent).
  
 ## Key results
 * Average user of "Smart" plan uses 422 minutes and 16.5 GB of data, and sends 28 texts;
