@@ -3,7 +3,7 @@
 [NBViewer - Jupyter Notebook](https://nbviewer.org/github/plgesha/data-analyst-professional-training-course-projects/blob/master/AB%20Test%20Results%20Analysis%20for%20an%20Online%20Store/AB%20Test%20Results%20Analysis%20for%20an%20Online%20Store.ipynb)
 
 ## Objective
-The customer is a major online store. The task is to prioritize revenue-increasing hypotheses, run an A/B test and analyze its results.  
+The client is a major online store. The task is to prioritize revenue-increasing hypotheses, run an A/B test and analyze its results.  
 
 This project consists of two parts:
 1. Revenue-increasing hypotheses prioritization using ICE and RICE frameworks;
