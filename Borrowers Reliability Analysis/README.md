@@ -4,7 +4,7 @@
 
 ## Objective
 
-The customer is a bank’s credit department. The task is to define if timeliness of loan repayment is affected by a client’s marital status or the number of children in their household. The data provided by the bank is statistics on the solvency of their customers. The results then may be used when building a credit scoring model. 
+The client is a bank’s credit department. The task is to define if timeliness of loan repayment is affected by a client’s marital status or the number of children in their household. The data provided by the bank is statistics on the solvency of their customers. The results then may be used when building a credit scoring model. 
 
 ## Data
 
