@@ -1,5 +1,7 @@
 # A/B Test Results Analysis (Supplementary Project)
 
+[NBViewer - Jupyter Notebook](https://nbviewer.org/github/plgesha/data-analyst-professional-training-course-projects/blob/master/AB%20Test%20Results%20Analysis%20%28Supplementary%20Project%29%20/AB%20Test%20Results%20Analysis%20%28Supplementary%20Project%29.ipynb)
+
 ## Objective
 The client is an international online shop. The task is to finish and analyse the results of the A/B test that was run by a previous analyst. The data provided is the user action dataset as well as terms of reference and several supporting datasets.
 
@@ -9,7 +11,7 @@ The client is an international online shop. The task is to finish and analyse th
 - stop date: expected — 4 Jan 2021, actual — 30 Dec 2020 (last event date);
 - audience (% of new users from the EU region): expected — 15%, actual — 13,7%;
 
-**A/B test results**
+**A/B test results**    
 The conversion funnel and hypothesis testing showed that the expected effect of at least 10% conversion increase did not occur, — on the contrary, the test group showed worse results.
 
 **Recommendations**
