@@ -1,5 +1,7 @@
 # SQL (Supplementary Project)
 
+[NBViewer - Jupyter Notebook](https://nbviewer.org/github/plgesha/data-analyst-professional-training-course-projects/blob/master/SQL%20%28Supplementary%20Project%29/SQL%20%28Supplementary%20Project%29.ipynb)
+
 ## Objective
 The client is a company that recently bought an ebook subscription service startup. The task is to look into the database  containing info on books, publishers, authors, and users’ book reviews to help create a new product value proposition.
 
