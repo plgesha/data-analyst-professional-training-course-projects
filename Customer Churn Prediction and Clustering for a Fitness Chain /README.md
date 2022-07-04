@@ -1,6 +1,6 @@
 # Customer Churn Prediction and Clustering for a Fitness Chain
 
-[NBViewer - Jupyter Notebook]()
+[NBViewer - Jupyter Notebook](https://nbviewer.org/github/plgesha/data-analyst-professional-training-course-projects/blob/master/Customer%20Churn%20Prediction%20and%20Clustering%20for%20a%20Fitness%20Chain%20/Customer%20Churn%20Prediction%20and%20Clustering%20for%20a%20Fitness%20Chain.ipynb)
 
 ## Objective
 The client is a fitness chain developing a customer engagement strategy. The task is to perform an analysis and develop a customer retention plan. The dataset provided comprises customer questionnaires containing data prior to the churn as well as the fact of a churn for a certain month.
