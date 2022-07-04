@@ -19,4 +19,4 @@ This project consists of several parts:
     - Users who viewed photos and added adds to favourites convert to contact viewing more frequently than those who didn't;
     - Hypotheses testing showed that looking through recommendations and photos as well as adding ads to favourites have an impact on the desired customer action.
 - [dashboard](https://public.tableau.com/app/profile/pauline7604/viz/12_16343236213560/2?publish=yes) that meets all the requirements;
-- summary [presentation]().
+- summary [presentation](https://github.com/plgesha/data-analyst-professional-training-course-projects/blob/master/User%20Behaviour%20Analysis%20in%20a%20Classified%20Ads%20App%20(Gumtree-Craigslist-Avito-like)/Presentation.pdf).
