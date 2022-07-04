@@ -1,6 +1,6 @@
 # User Behaviour Analysis in a Classified Ads App (Gumtree/Craigslist/Avito-like)
 
-[NBViewer - Jupyter Notebook]()
+[NBViewer - Jupyter Notebook](https://nbviewer.org/github/plgesha/data-analyst-professional-training-course-projects/blob/master/User%20Behaviour%20Analysis%20in%20a%20Classified%20Ads%20App%20%28Gumtree-Craigslist-Avito-like%29/User%20Behaviour%20Analysis%20in%20a%20Classified%20Advertisements%20App.ipynb)
 
 ## Objective
 The task is to analyse user behaviour and its connection to the desired customer action — contact viewing. The datasets provided contain user activities within the app for buying and selling pre-owned items. 
